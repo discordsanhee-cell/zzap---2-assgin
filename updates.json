@@ -1,5 +1,5 @@
 {
-  "level": "mId",
-  "title": "ZZap Assistant 2.1.9 공개 업데이트 수정",
-  "in": "본체가 GitHub에서 직접 받기를 먼저 시도합니다. 연결이 실패하면 같은 업데이트 버튼으로 브라우저가 암호화된 파일을 전달합니다. 본체가 파일을 검증하고 더 최신 버전만 설치합니다."
+  "level": "low",
+  "title": "ZZap Assistant 2.1.10 전자잉크 디더링",
+  "in": "Waveshare 전자잉크 편집기에서 이미지를 불러오면 Floyd–Steinberg 디더링을 적용한 4색 미리보기를 표시합니다."
 }
