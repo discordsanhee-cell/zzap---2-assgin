@@ -1,5 +1,5 @@
 {
-  "level": "mId",
-  "title": "ZZap Assistant 2.1.5 업데이트",
-  "in": "화면을 열어 둔 동안 3초마다 캐시 없이 공지를 확인합니다. GitHub의 긴 다운로드 주소에서 설치가 실패하던 문제를 수정했습니다. 처음 적용할 때는 시스템에서 OTA 파일 업로드를 사용하세요."
+  "level": "high",
+  "title": "ZZap Assistant 2.1.6 보안 업데이트",
+  "in": "대시보드와 로그인은 HTTPS로 전환됩니다. 설치 전에 공개 인증서 또는 새 Android APK를 준비하세요. Navidrome 비밀번호는 본체에서만 사용하고, Waveshare 요청에는 재사용 방지 검증을 적용했습니다. Waveshare는 새 USB 펌웨어가 필요합니다."
 }
