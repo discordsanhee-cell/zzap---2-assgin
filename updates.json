@@ -1,5 +1,5 @@
 {
   "level": "low",
-  "in": "Samba Share 애드온을 추가했습니다. 애드온에서 계정을 설정하고 시작한 뒤 Windows 파일 탐색기에서 \\\\장치IP\\sd로 SD 카드에 접속하세요.",
-  "title": "ZZap Assistant 2.1.14 Samba Share"
+  "in": "Samba Share 시작 시 같은 계정으로 WebDAV도 함께 켜집니다. RaiDrive에서 NAS → WebDAV, HTTPS, 포트 443, 경로 /sd로 연결하세요.",
+  "title": "ZZap Assistant 2.1.15 Samba + WebDAV"
 }
