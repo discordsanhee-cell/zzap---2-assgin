@@ -1,5 +1,5 @@
 {
   "level": "low",
-  "in": "Samba Share 시작 시 같은 계정으로 WebDAV도 함께 켜집니다. RaiDrive에서 NAS → WebDAV, HTTPS, 포트 443, 경로 /sd로 연결하세요.",
-  "title": "ZZap Assistant 2.1.15 Samba + WebDAV"
+  "in": "연결 끊김 문제에 대응해 Samba Share 및 WebDAV를 제거하고 HTTPS 메모리 설정을 공유 기능 추가 전으로 복원했습니다. 저장된 공유 계정과 자동 시작 설정도 삭제합니다.",
+  "title": "ZZap Assistant 2.1.16 공유 기능 제거"
 }
