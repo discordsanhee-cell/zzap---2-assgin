@@ -1,5 +1,5 @@
 {
   "level": "low",
-  "in": "개요와 엔티티에 T-Display 배터리 전압과 추정 잔량을 표시합니다. T-Display USB 업데이트가 필요합니다.",
-  "title": "ZZap Assistant 2.1.13 T-Display 배터리"
+  "in": "Samba Share 애드온을 추가했습니다. 애드온에서 계정을 설정하고 시작한 뒤 Windows 파일 탐색기에서 \\\\장치IP\\sd로 SD 카드에 접속하세요.",
+  "title": "ZZap Assistant 2.1.14 Samba Share"
 }
